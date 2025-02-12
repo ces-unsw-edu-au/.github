@@ -8,18 +8,14 @@ Collaborators from CES students and staff and external collaborators are welcome
 
 # Projects
 
-## Fireveg database
+## Fire Ecology database (FEDB)
 
-This project consists of several linked components:
+The ***🔥 Fire Ecology database: A database for fire research and management***  is being developed by  [José R. Ferrer-Paris](https://github.com/jrfep) and David Keith in the Centre for Ecosystem Science, University of New South Wales.
 
-***Fire Ecology Traits for Plants: A database for fire research and management*** OSF project [osf.io/hu96w](https://osf.io/hu96w/) with following components:
-  - **SQL structure of the fireveg database** [osf.io/4csyz](https://osf.io/4csyz)
-    - Source code in [GitHub repository](https://github.com/ces-unsw-edu-au/fireveg-db)
-    - Fire Ecology Traits for Plants: Database snapshot (SQL dump). Figshare dataset DOI:[10.6084/m9.figshare.23361002](https://doi.org/10.6084/m9.figshare.23361002)
-    - Fire Ecology Traits for Plants: Database exports. Figshare dataset DOI:[10.6084/m9.figshare.24125088](https://doi.org/10.6084/m9.figshare.24125088)
-  - **Webapp for browsing the fireveg database** [osf.io/rj68t](https://osf.io/rj68t)
-    - [Webapp](http://fireecologyplants.net) (Register with a verified email address)
-    - Source code in [GitHub repository](https://github.com/ces-unsw-edu-au/fireveg-webapp)
-  - **Fire Ecology Traits for Plants: Status of the database** [osf.io/kjevh](https://osf.io/kjevh)
-    - [Presentation slides](https://rpubs.com/jrfep/firevegdb-ESA2023)
-    - Source code in [BitBucket repository](https://bitbucket.org/fireveg/fireveg-presentations)
+Check the OSF project [osf.io/hu96w](https://osf.io/hu96w/) for an overview of project components. Browse the GitHub repositories:
+
+  - :file_cabinet: [**SQL structure of the database**](https://github.com/ces-unsw-edu-au/fireveg-db): Source code for defining the structure of the tables in a PostgreSQL database 
+  - :briefcase: [**Code for database imports and data curation**](https://github.com/ces-unsw-edu-au/fireveg-db-imports): Source code for populating and managing the database 
+  - :computer: [**Webapp for browsing the Fire Ecology database**](https://github.com/ces-unsw-edu-au/fireveg-webapp): Source code for setting up and running the Flask [Webapp](http://fireecologyplants.net)
+  - :bar_chart: [**Export data records from Fire Ecology database**](https://github.com/ces-unsw-edu-au/fireveg-db-exports/) 
+  - :technologist: [**Data analysis and visualisation**](https://github.com/ces-unsw-edu-au/fireveg-analysis): Notebooks with code and plots
