@@ -8,6 +8,10 @@ Collaborators from CES students and staff and external collaborators are welcome
 
 # Projects
 
+## Tracking ecosystems and adapting management to change
+
+- TODO: add repositories for Gayini and other landscapes
+
 ## Fire Ecology database (FEDB)
 
 The ***🔥 Fire Ecology database: A database for fire research and management***  is being developed by  [José R. Ferrer-Paris](https://github.com/jrfep) and David Keith in the Centre for Ecosystem Science, University of New South Wales.
